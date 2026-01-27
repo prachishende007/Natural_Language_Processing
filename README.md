@@ -1,4 +1,4 @@
-# Natural Language Processing – Semester Assignments
+# Natural Language Processing 
 
 This repository documents the **Natural Language Processing concepts and techniques** covered during the semester through a series of hands-on assignments.  
 The work emphasizes **text preprocessing, linguistic analysis, semantic understanding, and statistical language modeling** using Python-based NLP tools.
@@ -118,5 +118,5 @@ The work emphasizes **text preprocessing, linguistic analysis, semantic understa
 ---
 
 ## Author
-**Prachi**  
-Artificial Intelligence & Data Science
+**Prachi Shende**  
+prachishende182@gmail.com
